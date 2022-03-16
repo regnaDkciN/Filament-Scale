@@ -1,0 +1,26 @@
+Part                                      #   Link
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Adafruit HUZZAH32 – ESP32 Feather         1   https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
+Adafruit 1.8” TFT Display                 1   https://www.adafruit.com/product/358
+HX711 ADC Converter with 5KG Load Cell    1   https://www.amazon.com/gp/product/B078W2VCP2/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=replicantfx0d-20&linkId=3d2f04c1e519bb26f0717c80d80ebb15&language=en_US&th=1
+DHT22 Temperature and Humidity Sensor     1   https://www.adafruit.com/product/385
+Rotary Encoder with Switch Module         1   https://www.microcenter.com/product/618904/inland-ks0013-keystudio-rotary-encoder-module
+SPST N.O. Pushbutton Switch (16mm)        1   https://www.amazon.com/gp/product/B07DM2YMT4/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+DPDT Rocker Switch (3/4”)                 1   https://www.radioshack.com/products/dpdt-red-rocker-switch
+Resistor, 10K 1/8 Watt                    1
+5V Power Supply with Micro USB Connector  1   https://www.microcenter.com/product/510437/micro-connectors-micro-usb-5v-25a-power-adapter-with-on-off-switch-for-raspberry-pi
+2-Pin Connector, 0.1”                     1   https://www.allelectronics.com/item/con-242/2-pin-connector-w/header-.10/1.html
+3-Pin Connector, 0.1”                     1   https://www.allelectronics.com/item/con-243/3-pin-connector-w/header-0.1/1.html
+4-Pin Connector, 0.1”                     3   https://www.allelectronics.com/item/con-244/4-pin-connector-w/header-0.10/1.html
+10-Pin Connector, 0.1”                    1   https://www.allelectronics.com/item/con-2410/10-pin-connector-w/header-0.1-spacing/1.html
+Hookup Wire
+608ZZ Bearing                             4   https://www.amazon.com/gp/product/B00NX1WBA0/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+Assorted M2 and M3 Screws
+M3 Threaded Brass Inserts                15   https://www.amazon.com/gp/product/B07NBTCHP1/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+M3 x 6mm Screw                           15
+M3 x 12mm Screw                           6
+½” Self-Adhesive Foam Pads                4   https://www.acehardware.com/departments/home-and-decor/cabinet-and-furniture-hardware/protective-furniture-pads/5089586
+½” Rubber Grommet                         1   https://www.harborfreight.com/180-piece-harness-grommet-set-67582.html
+4” Cable Ties (100 pack)                  5   https://www.harborfreight.com/4-in-white-cable-ties-100-pk-60257.html
+3/32” Heat Shrink Tubing                      https://www.harborfreight.com/127-piece-heat-shrink-tubing-set-67524.html
+Knob for Rotary Encoder
