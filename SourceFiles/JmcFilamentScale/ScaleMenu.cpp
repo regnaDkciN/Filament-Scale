@@ -6,8 +6,10 @@
 //
 // History:
 // - jmcorbett 10-JUN-2021 Original creation.
+// - jmcorbett 30-AIG-2022 Fixed SkipItemDown() and SetScrollDelay() to return
+//                         correct status.
 //
-// Copyright (c) 2021, Joseph M. Corbett
+// Copyright (c) 2022, Joseph M. Corbett
 /////////////////////////////////////////////////////////////////////////////////
 
 #include "JmcFilamentScale.h"   // For global variables and extern definitioins.
@@ -155,6 +157,7 @@ static result SkipItemUpDown(eventMask e)
             gEncStream.incEncoder();
         }
     }
+    return proceed;
 } // End SkipItemUpDown().
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -327,6 +330,7 @@ static result SetTftLitePercent()
 static result SetScrollDelay()
 {
     MainScreen::SetScrollDelayMs(1000 * gScrollSeconds);
+    return proceed;
 }
 
 /////////////////////////////////////////////////////////////////////////////////

@@ -6,8 +6,9 @@
 //
 // History:
 // - jmcorbett 13-DEC-2020 Original creation.
+// - jmcorbett 30-AUG-2022 SetColor() returns void.
 //
-// Copyright (c) 2021, Joseph M. Corbett
+// Copyright (c) 2022, Joseph M. Corbett
 /////////////////////////////////////////////////////////////////////////////////
 
 #if !defined SPOOL_H
@@ -62,7 +63,7 @@ public:
     bool SetDensity(float density);
     bool SetSpoolWeight(float weight);
     bool SetDiameter(float diameter);
-    bool SetColor(uint16_t color);
+    void SetColor(uint16_t color);
 
 
     /////////////////////////////////////////////////////////////////////////////

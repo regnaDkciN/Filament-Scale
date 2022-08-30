@@ -6,8 +6,9 @@
 //
 // History:
 // - jmcorbett 13-DEC-2020 Original creation.
+// - jmcorbett 30-AUG-2022 SetColor() returns void.
 //
-// Copyright (c) 2021, Joseph M. Corbett
+// Copyright (c) 2022, Joseph M. Corbett
 /////////////////////////////////////////////////////////////////////////////////
 
 #include <Preferences.h>
@@ -119,7 +120,7 @@ bool Spool::SetDiameter(float diameter)
 } // End SetDiameter().
 
 
-bool Spool::SetColor(uint16_t color)
+void Spool::SetColor(uint16_t color)
 {
     m_Color = color;
 } // End SetColor().
